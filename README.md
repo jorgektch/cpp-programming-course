@@ -1,2 +1,2 @@
-# cpp-programming-course
+# CPP Programming Course
 CPP Programming Course
